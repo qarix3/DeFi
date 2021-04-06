@@ -36,8 +36,7 @@ https://bravenewcoin.com/
 https://u.today/
 https://bitcoinist.com/
 
-## Coin Screener 
-https://coin360.com/  
+## Coin Screener  
 https://coincap.io/  
 https://coinmarketcap.com/  
 https://www.cryptocompare.com/  
@@ -62,6 +61,10 @@ https://www.coingecko.com/en
 
 https://www.crypto-rating.com/
 https://www.blockchaincenter.net/
+
+### General 
+https://bitinfocharts.com/
+https://coin360.com/ 
 
 ### Portfolio
 https://www.cointracker.io/
@@ -90,8 +93,50 @@ https://coinchefs.com/
 https://coinmill.com/
 https://currencio.co/
 https://www.bitmart.com/
+https://www.luno.com/
+https://www.coinmama.com/  
 
-## Liquidity Provider
+### Card
+https://cash.app/
+https://www.chime.com/  
+https://www.varomoney.com/  
+
+### P2P
+https://remitano.com/  
+https://localbitcoins.com/  
+https://localcryptos.com/  
+https://localcoinswap.com/  
+
+### Other 
+https://99bitcoins.com/  
+
+### Decentralized Exchanger
+Disq
+
+## Mining Stats
+https://minerstat.com/  
+https://2miners.com/  
+https://btc.com/  
+https://www.coinwarz.com/  
+
+## Stacking
+https://www.stxstacking.com/  
+https://www.stakingrewards.com/  
+https://eth2.ankr.com/ 
+
+## Liquidity Provider 
+[DeFi Rates](https://defirate.com/)  
+[Defi Analytical](https://defiprime.com/)  
+[DeFi List](https://defipulse.com/)  
+
+### Etherchain
+https://app.uniswap.org/#/swap  
+https://app.sushi.com/swap  
+https://zapper.fi/dashboard  
+https://app.aave.com/markets  
+https://1inch.exchange
+
+### Binance Chain
 https://pancakeswap.finance/  
 https://burgerswap.org/trade/swap  
 https://celsius.network/  
@@ -99,6 +144,32 @@ https://celsius.network/
 ## Blockchain Explorer
 https://etherscan.io/   
 https://bscscan.com/  
+https://blockchair.com/  
+https://etherchain.org/  
+https://ethplorer.io/
+
+### Gas Price
+https://ethgasstation.info/
+
+## NFT 
+https://niftygateway.com/   
+https://www.cryptokitties.co/  
+https://superrare.co/  
+https://opensea.io/  
+https://rarible.com/  
+https://larvalabs.com/  
+
+## Wallet 
+https://www.myetherwallet.com/  
+https://trustwallet.com/  
+https://mycrypto.com/  
+https://metamask.io/  
+
+### Hardware Wallet
+https://trezor.io/  
+https://www.ledger.com/  
+https://www.secalot.com/  
+https://prokey.io/  
 
 ## Commodity
 https://goldprice.org/

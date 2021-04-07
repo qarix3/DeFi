@@ -1,8 +1,24 @@
 # DeFi
 A list for DeFi enthusiast
 
-## Cryptocurrency
-[awesome-cryptocurrencies]()
+## Cryptocurrency listing
+* [kasketis/awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies)
+* [crypti/cryptocurrencies](https://github.com/crypti/cryptocurrencies)
+* [cmahon/awesome-cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency)
+* [raju/Cryptocurrency-List](https://github.com/AnanthaRajuC/Cryptocurrency-List)
+* [lukechilds/coinlist](https://github.com/lukechilds/coinlist)
+* [etoxin/cryptolist](https://github.com/etoxin/cryptolist)
+
+Name, Symbol, Price*, (whitepaper), Website, Algorithm
+TODO: Script to update coin name regularly
+
+## Related 
+* [imbaniac/awesome-blockchain](https://github.com/imbaniac/awesome-blockchain)
+* [coinpride/CryptoList](https://github.com/coinpride/CryptoList)
+* [jashmenn/bitcoin-reading-list](https://github.com/jashmenn/bitcoin-reading-list)
+
+## History
+https://magoo.github.io/Blockchain-Graveyard/
 
 ### Airdrops
 https://airdrops.io/
@@ -149,6 +165,7 @@ https://minerstat.com/
 https://2miners.com/  
 https://btc.com/  
 https://www.coinwarz.com/  
+[(others)](https://gist.github.com/jordan-wright/95af062378e9a7436b94f893d195bcd2)
 
 ## Stacking
 https://www.stxstacking.com/  

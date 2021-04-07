@@ -34,23 +34,23 @@ https://bitcoinist.com/
 https://coincap.io/  
 https://coinmarketcap.com/  
 https://www.cryptocompare.com/  
-https://www.cryptonator.com/rates
+https://www.cryptonator.com/rates  
 https://cryptowat.ch/ 
 https://coinpaprika.com/  
-https://crypto.com/price/
-https://www.coingecko.com/en
+https://crypto.com/price/  
+https://www.coingecko.com/en  
 https://www.livecoinwatch.com/  
 https://coincodex.com/  
 https://coinranking.com/  
 https://digitalcoinprice.com/  
 https://www.coinlore.com/
-https://coinlib.io/   
+https://coinlib.io/     
 https://coin.market/  
-https://coindataflow.com/en  
+https://coindataflow.com/en   
 https://coinranking.com/  
-https://www.coingecko.com/en
-https://www.crypto-rating.com/
-https://www.blockchaincenter.net/
+https://www.coingecko.com/en  
+https://www.crypto-rating.com/  
+https://www.blockchaincenter.net/  
 
 ### General 
 https://bitinfocharts.com/  
@@ -195,5 +195,3 @@ https://goldprice.org/
 https://silverprice.org/  
 https://www.kitco.com/  
 https://www.bullionvault.com/  
-
-## Forex

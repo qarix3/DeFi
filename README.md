@@ -99,6 +99,12 @@ https://currencio.co/
 https://www.bitmart.com/  
 https://www.luno.com/  
 https://www.coinmama.com/   
+https://www.lbank.info/
+
+https://www.bitmex.com/app/apiOverview
+https://hitbtc.com/fix
+https://docs.bitfinex.com/docs
+https://www.bitstamp.net/fix/
 
 ### DEX (Decentralized Exchange)
 https://bisq.network/  

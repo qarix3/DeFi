@@ -10,6 +10,7 @@
 ### Desktop wallet
 
 * [Best Crypto Wallet for Desktop & Mobile: Exodus Crypto & Bitcoin Wallet](https://www.exodus.com/)
+* [Coinomi: The blockchain wallet trusted by millions.](https://www.coinomi.com/en/)
 
 ### Mobile wallet
 

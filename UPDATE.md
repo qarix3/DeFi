@@ -24,7 +24,7 @@
 * [IT, AI and Fintech Daily News for You Today](https://u.today/)
 * [Bitcoin News, Recent Updates, Price and Analysis – Bitcoinist](https://bitcoinist.com/)
 
-## Coin screener
+## Coin Screener
 
 * [CoinCap.io | Reliable Cryptocurrency Prices and Market Capitalizations](https://coincap.io/)
 * [Cryptocurrency Prices, Charts And Market Capitalizations | CoinMarketCap](https://coinmarketcap.com/)
@@ -48,3 +48,23 @@
 * [Blockchaincenter - Krypto Kurse & Vergleich](https://www.blockchaincenter.net/)
 * [Bitcoin, Litecoin, Namecoin, Dogecoin, Peercoin, Ethereum stats](https://bitinfocharts.com/)
 * [Cryptocurrency Prices Heatmap, Market Cap, Charts & Widget – COIN360](https://coin360.com/)
+
+## Crypto Wallet
+
+### Hosted Wallet
+
+* [MetaMask](https://metamask.io/)
+* [MyCrypto - Ethereum Wallet Manager](https://mycrypto.com/)
+* [Best Cryptocurrency Wallet | Ethereum Wallet | ERC20 Wallet | Trust Wallet](https://trustwallet.com/)
+* [MyEtherWallet | MEW](https://www.myetherwallet.com/)
+
+### Software-based Wallet
+
+* [Best Crypto Wallet for Desktop & Mobile: Exodus Crypto & Bitcoin Wallet](https://www.exodus.com/)
+
+### Hardware Wallet
+
+* [Secure Hardware Wallet for Bitcoin, ETH, USDT and all crypto | Prokey](https://prokey.io/)
+* [Secalot: cryptocurrency wallet, OpenPGP card, U2F, OTP](https://www.secalot.com/)
+* [Hardware Wallet - State-of-the-art security for crypto assets | Ledger](https://www.ledger.com/)
+* [Trezor Hardware Wallet (Official) | The original and most secure hardware wallet.](https://trezor.io/)

@@ -2,24 +2,6 @@
 
 A list for DeFi enthusiast
 
-## Cryptocurrency listing
-
-* [kasketis/awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies)
-* [crypti/cryptocurrencies](https://github.com/crypti/cryptocurrencies)
-* [cmahon/awesome-cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency)
-* [raju/Cryptocurrency-List](https://github.com/AnanthaRajuC/Cryptocurrency-List)
-* [lukechilds/coinlist](https://github.com/lukechilds/coinlist)
-* [etoxin/cryptolist](https://github.com/etoxin/cryptolist)
-
-Name, Symbol, Price*, (whitepaper), Website, Algorithm
-TODO: Script to update coin name regularly
-
-## Related
-
-* [imbaniac/awesome-blockchain](https://github.com/imbaniac/awesome-blockchain)
-* [coinpride/CryptoList](https://github.com/coinpride/CryptoList)
-* [jashmenn/bitcoin-reading-list](https://github.com/jashmenn/bitcoin-reading-list)
-
 ## History
 
 https://magoo.github.io/Blockchain-Graveyard/
@@ -239,3 +221,21 @@ https://metamask.io/
 * [Hardware Wallet - State-of-the-art security for crypto assets | Ledger](https://www.ledger.com/)
 * [Secalot: cryptocurrency wallet, OpenPGP card, U2F, OTP](https://www.secalot.com/)
 * [Secure Hardware Wallet for Bitcoin, ETH, USDT and all crypto | Prokey](https://prokey.io/)
+  
+## Cryptocurrency listing
+
+* [kasketis/awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies)
+* [crypti/cryptocurrencies](https://github.com/crypti/cryptocurrencies)
+* [cmahon/awesome-cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency)
+* [raju/Cryptocurrency-List](https://github.com/AnanthaRajuC/Cryptocurrency-List)
+* [lukechilds/coinlist](https://github.com/lukechilds/coinlist)
+* [etoxin/cryptolist](https://github.com/etoxin/cryptolist)
+
+Name, Symbol, Price*, (whitepaper), Website, Algorithm
+TODO: Script to update coin name regularly
+
+## Related
+
+* [imbaniac/awesome-blockchain](https://github.com/imbaniac/awesome-blockchain)
+* [coinpride/CryptoList](https://github.com/coinpride/CryptoList)
+* [jashmenn/bitcoin-reading-list](https://github.com/jashmenn/bitcoin-reading-list)

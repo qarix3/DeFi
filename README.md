@@ -171,21 +171,24 @@ https://tokenlon.im/
 https://switcheo.exchange/markets/SWTH_NEO
 
 ### Card
+
 https://cash.app/
 https://www.chime.com/  
 https://www.varomoney.com/  
 
 ### P2P
+
 https://remitano.com/  
 https://localbitcoins.com/  
 https://localcryptos.com/  
 https://localcoinswap.com/  
 
-### Other 
+### Other
+
 https://99bitcoins.com/  
 
-
 ## Mining Stats
+
 https://minerstat.com/  
 https://2miners.com/  
 https://btc.com/  
@@ -193,11 +196,13 @@ https://www.coinwarz.com/
 [(others)](https://gist.github.com/jordan-wright/95af062378e9a7436b94f893d195bcd2)
 
 ## Stacking
+
 https://www.stxstacking.com/  
 https://www.stakingrewards.com/  
 https://eth2.ankr.com/ 
 
-## Liquidity Provider 
+## Liquidity Provider
+
 [DeFi Rates](https://defirate.com/)  
 [Defi Analytical](https://defiprime.com/)  
 [DeFi List](https://defipulse.com/)  
@@ -212,7 +217,8 @@ https://ethplorer.io/
 ### Gas Price
 https://ethgasstation.info/
 
-## NFT 
+## NFT
+
 https://niftygateway.com/   
 https://www.cryptokitties.co/  
 https://superrare.co/  
@@ -220,20 +226,16 @@ https://opensea.io/
 https://rarible.com/  
 https://larvalabs.com/  
 
-## Wallet 
+## Wallet
+
 https://www.myetherwallet.com/  
 https://trustwallet.com/  
 https://mycrypto.com/  
 https://metamask.io/  
 
 ### Hardware Wallet
-https://trezor.io/  
-https://www.ledger.com/  
-https://www.secalot.com/  
-https://prokey.io/  
 
-## Commodity
-https://goldprice.org/  
-https://silverprice.org/  
-https://www.kitco.com/  
-https://www.bullionvault.com/  
+* [Trezor Hardware Wallet (Official) | The original and most secure hardware wallet.](https://trezor.io/)
+* [Hardware Wallet - State-of-the-art security for crypto assets | Ledger](https://www.ledger.com/)
+* [Secalot: cryptocurrency wallet, OpenPGP card, U2F, OTP](https://www.secalot.com/)
+* [Secure Hardware Wallet for Bitcoin, ETH, USDT and all crypto | Prokey](https://prokey.io/)
